@@ -1,2 +1,2 @@
-# FCC-Timestamp-Microservice
-Timestamp Microservice App for freeCodeCamp
+
+# [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
